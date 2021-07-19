@@ -3,9 +3,13 @@
 # Electricity Bill Management System
 
 -->ER DIAGRAM
+
+
 ![Screenshot (357)](https://user-images.githubusercontent.com/67356407/126186134-11a68ac2-97dd-4f48-9570-101063200b8e.png)
 
--->SCHEMAS
+-->SCHEMA DIAGRAM
+
+
 ![Screenshot (358)](https://user-images.githubusercontent.com/67356407/126186140-37677b5b-bfcf-4272-b57c-5a0dd98946d6.png)
 
 List of entries for the tables:
